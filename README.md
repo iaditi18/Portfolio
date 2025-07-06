@@ -1,20 +1,31 @@
-# Tic Tac Toe Game 🎮
+# 🌐 Personal Portfolio Website
 
-A simple implementation of the classic Tic Tac Toe game for two players. This project is great for learning basic game logic, working with loops, and handling user input.
+A responsive and minimal portfolio website built using HTML and CSS. This project is a digital representation of my skills, experience, and personality as a developer, designed to leave a lasting first impression.
 
-## 🧠 Features
+---
 
-- Two-player game (Player X and Player O)
-- Input validation
-- Win and draw detection
-- Clear and simple game loop
-- Console-based or GUI (depending on version)
+## 📌 About
 
-## 🚀 Getting Started
+This is a clean and professional personal portfolio website. It showcases:
 
-### Prerequisites
+- A brief introduction about me
+- Skills and technologies I work with
+- Selected projects with links
+- Contact information
+- Resume access (optional section)
 
-Make sure you have Python installed:
+The site is fully responsive and optimized for both desktop and mobile viewports.
 
-```bash
-python --version
+---
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- Responsive Design Principles
+- (Add JavaScript or frameworks if you plan to extend it later)
+
+---
+
+## 📁 Folder Structure
+
